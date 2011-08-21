@@ -22,8 +22,8 @@
 .opentok-publisher-controls a,
 .opentok-stream-controls a{
   display:block;
-  width:16px;
-  height:16px;
+  width:30px;
+  height:30px;
   text-indent:-99999px;
   float:left;
   margin:2px;
